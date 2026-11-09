@@ -1,24 +1,78 @@
-# 💫 About Me:
-## 👋 Hi, I'm Anuar<br><br>🚀 DevOps & Data Engineer with a strong focus on Backend Development  <br>⚙️ Working with Linux, CI/CD, automation & infrastructure  <br>🐍 Building backend systems, APIs & data pipelines using Python & SQL  <br>📊 Interested in scalable systems, cloud infrastructure & data engineering  <br><br>🎓 AI Lab Member at Suleyman Demirel University  <br>👨‍💼 Class Representative | Team-oriented & responsible  <br><br>🔍 Currently looking for DevOps / Data / Backend internship opportunities  <br><br>⚡ I enjoy turning complex systems into reliable, production-ready solutions.
+# 👋 Hey, I'm Anuar
 
+### AI Engineer | DevOps Engineer | Data Engineer
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anuar_zxc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dauletzhanuly_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuar-alimzhan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Anuar_zxc) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dauletzhanuly_07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alimzhananuar69@gmail.com) 
+I build intelligent systems, automate infrastructure, and turn raw data into reliable, production-ready solutions.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anuar-zxc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anuar-zxc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuar-zxc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My main focus is at the intersection of **Artificial Intelligence, Software Engineering, and Infrastructure**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anuar-zxc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🚀 What I Do
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🤖 **AI Engineering** — Building AI-powered applications, integrating LLMs, developing RAG systems and intelligent automation.
+- ⚙️ **DevOps Engineering** — Linux infrastructure, Docker, CI/CD pipelines, deployment automation and system reliability.
+- 📊 **Data Engineering** — Designing ETL pipelines, data processing systems, database optimization and analytics infrastructure.
+- 💻 **Backend Engineering** — Developing APIs, backend architectures and scalable services with Python.
+
+### 🏗️ Experience & Community
+
+- 🎓 AI Lab Member & Data Engineer / DevOps Developer at Suleyman Demirel University.
+- 🚀 Founder & President of SDU Digital Hub.
+- 💡 Building AI-driven products and exploring new technologies.
+- 🏆 Hackathon winner and startup builder.
+
+### 🧠 Current Interests
+
+- AI Agents & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning Engineering
+- MLOps & AI Infrastructure
+- Distributed Systems
+- Cloud & Infrastructure Automation
+- Data Pipelines & Big Data
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anuar-zxc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuar-alimzhan/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anuar_zxc)
+
+### 💻 Tech Stack
+
+**AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Backend & Data Engineering**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Programming Languages & Tools**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Anuar-zxc&theme=dark&hide_border=true&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuar-zxc&theme=dark&hide_border=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anuar-zxc&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Building things that matter. Learning continuously. Engineering beyond the limits.*
